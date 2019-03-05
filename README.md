@@ -12,3 +12,4 @@ You can participate to this project by creating a *darktable style* with your ca
   Andreas Schneider <asn@cryptomilk.org> for [Sony a7 III file](https://pixelbook.org/darktable/camera/ilce-7m3/ILCE-7M3_ISO100_JPG_STD.dtstyle)
   Norman Schülke for [Nikon D3100 file](https://dtstyle.net/download.php/235/Nikon_D3100_Neutral.dtstyle)
   Martin Straeten for [Canon 5D Mark IV file](https://dtstyle.net/download.php/439/Canon%205DmIV%20Standard.dtstyle)
+  Martin Straeten for [Canon M6 file](https://dtstyle.net/download.php/436/Canon%20M6%20Neutral.dtstyle)
