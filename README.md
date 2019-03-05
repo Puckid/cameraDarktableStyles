@@ -14,3 +14,4 @@ Norman Schülke for [Nikon D3100 file](https://dtstyle.net/download.php/235/Niko
 Martin Straeten for [Canon 5D Mark IV file](https://dtstyle.net/download.php/439/Canon%205DmIV%20Standard.dtstyle)  
 Martin Straeten for [Canon M6 file](https://dtstyle.net/download.php/436/Canon%20M6%20Neutral.dtstyle)  
 Joäo M. Horta for [Nikon D7100 file](https://dtstyle.net/download.php/341/D7100-Basecurve%20Standard.dtstyle)  
+[Heiko Bauke](https://github.com/rabauke) for [Sony a6300 file](https://github.com/rabauke/darktable-styles/raw/master/for%20Sony/Sony%20%CE%B1%206300%20base%20curve.dtstyle)  
